@@ -1,7 +1,7 @@
 ![My Image](funny.jpg)
 # Hi, I’m Nada! 🌟
 
-I’m a curiosity **$\color{#1583DC}{\text{backend developer}}$** powered by caffeine (but not a fan of coffee ☕),
+I’m a curios **$\color{#1583DC}{\text{backend developer}}$** powered by caffeine (but not a fan of coffee ☕),
 diving into **$\color{#72C7FF}{\text{PHP}}$** and **$\color{#72C7FF}{\text{Laravel}}$** to craft creative web solutions 🚀. 
 
 
